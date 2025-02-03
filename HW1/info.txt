@@ -1,0 +1,2 @@
+Line 1: (x1, y1, x2, y2) - (64, 64, 64, 64)
+Line 2: im1.jpg - photo by the window (natural light); im2.jpg - photo under a lamp (artificial light)
